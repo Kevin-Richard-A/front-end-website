@@ -1,0 +1,27 @@
+.front-body{
+    background-color: darkolivegreen;
+    background-image: none;
+    margin-top: 5%;
+    margin-left: 3%;
+    margin-right: 3%;
+    margin-bottom: 1%;
+    padding-left: 4%;
+    padding-right: 4%;
+    padding-bottom: 2%;
+    opacity: .9;
+}
+
+h2{
+    color:aliceblue;
+    font-weight: 400;
+}
+p{
+    color:aliceblue;
+    text-align: justify;
+    font-weight: 100;
+}
+
+.alignment{
+    margin: 5%;
+    padding: 5%;
+}

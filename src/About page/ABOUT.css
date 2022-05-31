@@ -1,0 +1,17 @@
+.bodys{
+    background-image: url('https://lh6.googleusercontent.com/proxy/hVHEEHwr4CLWUt2F-_h1smPod6767e_y1s4YZS02e-qOe0R2ghuFZL71ajsegHTd1SOHNBwSOPsRUMeMgtuuW_xF6x9Y9IyJsDfCbAU-aBkNiBNk9pJtTNQE9rIQgAj2=w1200-h630-p-k-no-nu');
+    padding: 8%;
+    background-repeat: no-repeat;
+    margin: 5%;
+    margin-bottom: 3%;
+    /* background-size: 100%; */
+    image-resolution: 100%;
+}
+
+hr {
+    margin: 1rem 0;
+    color: inherit;
+    background-color: #762121;
+    border: 0;
+    opacity: 1;
+}

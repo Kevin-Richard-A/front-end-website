@@ -1,0 +1,12 @@
+body {
+  background-color: grey;
+  background-image: url(https://i.pinimg.com/originals/ec/d2/98/ecd298ea1f59b4ac9f9bb9d96fc64162.png);
+  background-repeat: no-repeat;
+  background-size: 100%;
+  /* image-resolution: 100%; */
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
